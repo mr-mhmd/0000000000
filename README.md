@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Iran, Bushehr</h3>
-<img scr="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+<img scr="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiaarshadi" alt="arshiaarshadi" /></a> </p>
 
