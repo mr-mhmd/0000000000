@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h3 align="center">A passionate developer from Iran, Bushehr</h3>
 <img scr="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif">
 
