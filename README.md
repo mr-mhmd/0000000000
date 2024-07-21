@@ -1,4 +1,6 @@
-<h3 align="center">Unknown \n Do not trust the codes \n Everything is code except your brain</h3>
+<h3 align="center"> Unknown</h3>
+<h3 align="center"> Do not trust the codes </h3>
+<h3 align="center"> Everything is code except your brain</h3>
 
 
 <div align="center">
