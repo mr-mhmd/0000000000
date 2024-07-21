@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h3 align="center">A passionate developer from Iran, Bushehr</h3>
-<img align="right" alt="TcoY" width="400" scr="https://media.tenor.com/rePDfDWO3XoAAAAe/hacking.png">
+<img align="right" width="400" scr="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiaarshadi" alt="arshiaarshadi" /></a> </p>
 
